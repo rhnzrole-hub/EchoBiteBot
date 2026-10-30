@@ -1,0 +1,2 @@
+# Python 3.10+ standart kutubxonasi ishlatiladi. Pip paketlari talab qilinmaydi.
+# Tizimga FFmpeg va ffprobe alohida o'rnatiladi; Docker ichida ular o'rnatiladi.

@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+!.env.local.example
+data/
+telegram-api-data/
+__pycache__/
+*.pyc
+.venv/
